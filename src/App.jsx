@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import img from "./assets/profile.png";
 import './App.css'
-import '@fortawesome/fontawesome-free/css/all.min.css';
+import "@fortawesome/fontawesome-free/css/all.min.css";
 
 
 function App() {
